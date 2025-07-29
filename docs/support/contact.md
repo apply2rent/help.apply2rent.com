@@ -1,6 +1,6 @@
 # Contact Information
 
-Get help with Apply2Rent through multiple support channels. Our team is here to assist you with any questions or issues you may encounter.
+Get help with Apply2Rent.com through multiple support channels. Our team is here to assist you with any questions or issues you may encounter.
 
 ## Contact Methods
 
@@ -26,17 +26,17 @@ Get help with Apply2Rent through multiple support channels. Our team is here to 
 - Complex problems requiring discussion
 - Immediate assistance needs
 
-**Note:** Phone number available through live chat or email support
+**Note:** Phone number available through email support
 
-### 💬 Live Chat
+<!-- ### 💬 Live Chat
 **Available:** During business hours (9:00 AM - 5:00 PM HST)  
-**Access:** Through your Apply2Rent dashboard when logged in
+**Access:** Through your Apply2Rent.com dashboard when logged in
 
 **Best for:**
 - Quick questions and clarifications
 - Immediate assistance during business hours
 - Profile and application guidance
-- Technical support while using the platform
+- Technical support while using the platform -->
 
 ## Business Hours
 
@@ -63,7 +63,7 @@ HST compared to other time zones:
 When contacting support, please include:
 
 #### **Account Information**
-- **Email address** associated with your Apply2Rent account
+- **Email address** associated with your Apply2Rent.com account
 - **Account type** - Tenant or Landlord
 - **Application or property ID** (if applicable)
 
@@ -108,14 +108,14 @@ For technical problems, include:
 
 ### Technical Support
 - **Website functionality** - Features not working properly
-- **Mobile responsiveness** - Issues with mobile app or mobile site
+- **Mobile responsiveness** - Issues with mobile site
 - **Browser compatibility** - Problems with specific browsers
 - **Performance issues** - Slow loading or timeout errors
 
 ## Self-Service Resources
 
 ### Help Documentation
-**Location:** [Apply2Rent Help Documentation](/)  
+**Location:** [Apply2Rent.com Help Documentation](/)  
 **Content:** Comprehensive guides for all platform features
 
 **Available Guides:**
@@ -141,7 +141,6 @@ For technical problems, include:
 ## Response Time Expectations
 
 ### Standard Response Times
-- **Live Chat:** Immediate during business hours
 - **Email:** Within 24 hours on business days
 - **Phone:** Immediate during business hours
 - **Complex Issues:** May require 2-3 business days for resolution
@@ -162,11 +161,11 @@ For technical problems, include:
 ## Feedback and Suggestions
 
 ### We Value Your Input
-Help us improve Apply2Rent by sharing:
+Help us improve Apply2Rent.com by sharing:
 - **Feature requests** - New functionality you'd like to see
 - **User experience feedback** - Ways to improve the platform
 - **Bug reports** - Issues or problems you encounter
-- **Success stories** - How Apply2Rent has helped you
+- **Success stories** - How Apply2Rent.com has helped you
 
 ### How to Submit Feedback
 - **Email:** info@apply2rent.com with "Feedback" in subject line
@@ -204,4 +203,4 @@ For issues requiring immediate attention:
 
 ---
 
-**Additional Resources:** Check our [Frequently Asked Questions](faq.md) for quick answers to common questions.
+**Additional Resources:** Check our [Frequently Asked Questions](support/faq.md) for quick answers to common questions.

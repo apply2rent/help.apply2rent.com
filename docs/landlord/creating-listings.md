@@ -5,7 +5,7 @@ Learn how to create compelling property listings that attract quality tenants an
 ## Getting Started with Property Listings
 
 ### Accessing the Property Creation Tool
-1. **Log in** to your Apply2Rent landlord account
+1. **Log in** to your Apply2Rent.com landlord account
 2. **Click "Properties"** in the main navigation
 3. **Select "Add Property"** or "Create New Listing"
 4. **Complete the property wizard** step by step
@@ -27,14 +27,12 @@ A complete property listing includes:
 - **Street address** - Full street number and name
 - **Unit number** - Apartment or unit designation if applicable
 - **City, state, ZIP** - Complete location information
-- **Neighborhood** - Specific area or district name
 
 #### **Address Verification**
-Apply2Rent automatically:
+Apply2Rent.com automatically:
 - **Validates addresses** - Confirms property exists
 - **Maps location** - Places property on interactive map
 - **Suggests corrections** - Helps fix address errors
-- **Provides coordinates** - Accurate map positioning
 
 ### Property Type and Specifications
 
@@ -44,43 +42,40 @@ Select the appropriate category:
 - **Apartment** - Unit in multi-family building
 - **Townhouse** - Attached single-family home
 - **Condo** - Condominium unit
-- **Room** - Individual room in shared housing
+<!-- - **Room** - Individual room in shared housing -->
 - **Other** - Unique property types
 
 #### **Property Size**
-- **Bedrooms** - Number of bedrooms (0-5+)
+- **Bedrooms** - Number of bedrooms
 - **Bathrooms** - Number of full and half bathrooms
 - **Square footage** - Living space area
-- **Lot size** - Property lot dimensions (if applicable)
 
-#### **Year Built**
+<!-- #### **Year Built**
 - **Construction year** - Original building year
 - **Recent renovations** - Major updates or remodels
-- **Property condition** - Overall condition rating
+- **Property condition** - Overall condition rating -->
 
 ## Rental Terms and Pricing
 
-### Monthly Rent and Deposits
+### Rent
 
 #### **Rental Price**
-- **Monthly rent** - Base monthly rental amount
+- **Rent** - Base daily, monthly, or yearly rental amount
 - **Utilities included** - What utilities are covered
-- **Additional fees** - Parking, storage, amenities
-- **Pet rent** - Additional monthly pet charges
 
-#### **Security Deposit**
+<!-- #### **Security Deposit**
 - **Deposit amount** - Security deposit required
 - **Last month's rent** - If required upfront
 - **Pet deposit** - Additional deposit for pets
-- **Key deposit** - Refundable key or access deposits
+- **Key deposit** - Refundable key or access deposits -->
 
 ### Lease Terms
 
-#### **Lease Duration**
+<!-- #### **Lease Duration**
 - **Minimum lease** - Shortest acceptable lease term
 - **Preferred lease** - Ideal lease length
 - **Month-to-month** - If month-to-month available
-- **Lease renewal** - Renewal policies and terms
+- **Lease renewal** - Renewal policies and terms -->
 
 #### **Availability**
 - **Available date** - When property becomes available
@@ -90,7 +85,7 @@ Select the appropriate category:
 
 ## Property Features and Amenities
 
-### Interior Features
+<!-- ### Interior Features
 
 #### **Kitchen**
 - **Appliances included** - Refrigerator, stove, dishwasher, microwave
@@ -108,27 +103,24 @@ Select the appropriate category:
 - **Master bedroom** - Size and features
 - **Walk-in closets** - Storage space in bedrooms
 - **Bathroom features** - Tub, shower, double vanity
-- **Flooring** - Carpet, hardwood, tile, laminate
+- **Flooring** - Carpet, hardwood, tile, laminate -->
 
 ### Building Amenities
 
 #### **Climate Control**
-- **Air conditioning** - Central, window units, or none
-- **Heating** - Forced air, baseboard, radiant
-- **Energy efficiency** - Energy-efficient features
+- **Air conditioning**
+- **Heating** 
 
-#### **Storage and Parking**
-- **Parking** - Garage, carport, driveway, street
-- **Storage** - Basement, attic, shed, storage unit
-- **Garage features** - Attached, detached, automatic opener
+#### **Parking and Laundry**
+- **Parking** - Garage, street, none
+- **Laundry** - In unit, in building, none
 
-#### **Laundry**
-- **In-unit laundry** - Washer and dryer in apartment
-- **Laundry room** - Shared laundry facilities
-- **Hookups available** - Washer/dryer connections
-- **Coin-operated** - Pay-per-use laundry
+#### **Other**
+- **Wheelchair accessibility**
+- **Furnished**
+- **EV Charging**
 
-### Neighborhood and Location Features
+<!-- ### Neighborhood and Location Features
 
 #### **Transportation**
 - **Public transportation** - Bus routes, subway, light rail
@@ -146,32 +138,17 @@ Select the appropriate category:
 - **School districts** - Public school ratings and districts
 - **Colleges** - Nearby universities and colleges
 - **Libraries** - Public library access
-- **Educational resources** - Museums, learning centers
+- **Educational resources** - Museums, learning centers -->
 
 ## Property Policies
 
 ### Pet Policy
-
-#### **Pet-Friendly Options**
-- **Pets allowed** - Types and sizes of pets permitted
-- **Pet restrictions** - Breed, weight, or number limits
-- **Pet deposit/rent** - Additional costs for pets
-- **Pet amenities** - Dog parks, pet washing stations
-
-#### **No Pet Properties**
-- **No pets allowed** - Clear no-pet policy
-- **Exceptions** - Service animals and emotional support animals
-- **Allergies** - Property considerations for pet allergies
+- **Dogs allowed** - Accepts canine pets with potential breed/size restrictions
+- **Cats allowed** - Accepts feline pets
+- **Other pets allowed** - Accepts birds, fish, small mammals, or exotic pets
+- **No pets allowed** - Prohibits all animals
 
 ### Parking Policy
-
-#### **Parking Included**
-- **Assigned parking** - Designated parking spaces
-- **Number of spaces** - How many spaces included
-- **Covered parking** - Garage or carport spaces
-- **Additional parking** - Extra spaces available for fee
-
-#### **Parking Restrictions**
 - **Street parking only** - No dedicated parking
 - **Permit parking** - Residential parking permits required
 - **No parking** - No parking available with property
@@ -179,8 +156,6 @@ Select the appropriate category:
 ### Smoking Policy
 - **Non-smoking property** - No smoking anywhere on property
 - **Smoking permitted** - Designated smoking areas
-- **Outdoor smoking only** - Smoking allowed outside only
-- **Tobacco-free** - Includes e-cigarettes and vaping
 
 ## Property Listing Best Practices
 
@@ -237,16 +212,16 @@ Select the appropriate category:
 ### After Creating Your Listing
 
 #### **Review and Edit**
-- **Preview your listing** - See how it appears to tenants
+- **Review your listing** - See how it appears to tenants
 - **Check for errors** - Spelling, grammar, and accuracy
 - **Test all features** - Ensure photos and contact info work
 - **Get feedback** - Ask others to review your listing
 
-#### **Monitor Performance**
+<!-- #### **Monitor Performance**
 - **Track listing views** - How many people view your property
 - **Application volume** - Number of applications received
 - **Inquiry quality** - Types of questions from prospects
-- **Time on market** - How long to attract qualified tenants
+- **Time on market** - How long to attract qualified tenants -->
 
 ### Updating Your Listing
 Keep your listing current:
@@ -257,4 +232,4 @@ Keep your listing current:
 
 ---
 
-**Next Steps:** Learn about [Uploading Photos](photos.md) to showcase your property with professional-quality images.
+**Next Steps:** Learn about [Uploading Photos](landlord/photos.md) to showcase your property with professional-quality images.

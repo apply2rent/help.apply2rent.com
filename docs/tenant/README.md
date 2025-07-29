@@ -1,26 +1,26 @@
-# Tenant Guide
+# Applicant Guide
 
-Welcome to the comprehensive Tenant Guide for Apply2Rent! This section covers everything you need to know as a tenant looking for rental properties and managing your rental applications.
+Welcome to the comprehensive Applicant Guide for Apply2Rent.com! This section covers everything you need to know as a applicant looking for rental properties and managing your rental applications.
 
 ## Overview
 
-As a tenant on Apply2Rent, you can:
+As a applicant on Apply2Rent.com, you can:
 - **Apply to unlimited properties** with a single profile
 - **Track application status** in real-time
 - **Store and reuse** your rental information
 - **Receive notifications** about application updates
-- **Access tenant screening results** and improve your profile
+- **Access applicant screening results** and improve your profile
 
-## Getting Started as a Tenant
+## Getting Started as an Applicant
 
-### Your Tenant Journey
-1. **[Profile Setup](profile-setup.md)** - Complete your comprehensive rental profile
+### Your Applicant Journey
+1. **[Profile Setup](tenant/profile-setup.md)** - Complete your comprehensive rental profile
 2. **Property Search** - Use our [Core Features](../core/property-search.md) to find rentals
-3. **[Applying to Properties](applying.md)** - Submit applications with confidence
-4. **[Payment & Subscription](payment.md)** - Manage your $40/month unlimited applications
-5. **[Track Results](results.md)** - Monitor application status and screening results
+3. **[Applying to Properties](tenant/applying.md)** - Submit applications with confidence
+4. **[Payment & Subscription](tenant/payment.md)** - Manage your $40/month unlimited applications
+5. **[Track Results](tenant/results.md)** - Monitor application status and screening results
 
-## Tenant Account Benefits
+## Applicant Account Benefits
 
 ### 🏢 **Apply to Multiple Properties**
 - Submit applications to as many properties as you want
@@ -32,7 +32,7 @@ Real-time tracking of your applications:
 - **Draft** - Application in progress
 - **Pending** - Submitted, awaiting initial review
 - **Under Review** - Landlord is reviewing your application
-- **Screened** - Tenant screening completed
+- **Screened** - Applicant screening completed
 - **Approved** - Congratulations! You've been approved
 - **Denied** - Application was not approved
 
@@ -42,38 +42,38 @@ Real-time tracking of your applications:
 - Privacy-protected rental history
 
 ### 📧 **Stay Informed**
-- Email notifications for application updates
+- Email and in-app notifications for application updates
 - Alerts when landlords request additional information
 - Updates on screening results and decisions
 
-## Tenant Profile Sections
+## Applicant Profile Sections
 
-Your tenant profile consists of several important sections:
+Your applicant profile consists of several important sections:
 
-### 📋 **[Personal Information](personal-info.md)**
+### 📋 **[Personal Information](tenant/personal-info.md)**
 - Basic contact details
 - Current address and identification
 - Emergency contact information
 
-### 💼 **[Employment Information](employment.md)**  
+### 💼 **[Employment Information](tenant/employment.md)**  
 - Current employment details
 - Income verification
 - Additional income sources
 - Employment history
 
-### 🏠 **[Rental History](rental-history.md)**
+### 🏠 **[Rental History](tenant/rental-history.md)**
 - Previous rental addresses
 - Landlord contact information
 - Rental payment history
 - Move-out circumstances
 
-### 📄 **[Documents](documents.md)**
+### 📄 **[Documents](tenant/documents.md)**
 - Required document uploads
 - Driver's license or state ID
 - Pay stubs and bank statements
 - Additional verification documents
 
-### ℹ️ **[Additional Information](additional-info.md)**
+### ℹ️ **[Additional Information](tenant/additional-info.md)**
 - Pet information
 - Vehicle details
 - Criminal history disclosure
@@ -86,26 +86,25 @@ Your tenant profile consists of several important sections:
 1. **Find a Property** - Use search and filter tools
 2. **Review Your Profile** - Ensure all information is current
 3. **Submit Application** - Complete the application wizard
-4. **Make Payment** - $40/month subscription for unlimited applications
+4. **Make Payment** - $40/month for unlimited applications
 5. **Track Progress** - Monitor status and respond to requests
 
 ### What Happens After You Apply
 1. **Initial Review** - Basic application screening
-2. **Tenant Screening** - Comprehensive background and credit check
+2. **Applicant Screening** - Comprehensive background and credit check
 3. **Landlord Verification** - Previous landlords may be contacted
 4. **Decision** - Approval, denial, or request for more information
 
-## Tenant Screening Process
+## Applicant Screening Process
 
 ### What Gets Screened
 - **Credit History** - Credit score and payment history
 - **Rental History** - Previous landlord verification
 - **Employment Verification** - Income and job stability
-- **Background Check** - Criminal history screening
 - **Eviction History** - Public records search
 
 ### Your Tenant Score
-Apply2Rent provides a comprehensive tenant score including:
+Apply2Rent.com provides a comprehensive tenant score including:
 - **Overall Score** - Numerical rating of your application strength
 - **Category Breakdown** - Detailed scoring by category
 - **Improvement Recommendations** - Tips to strengthen future applications
@@ -118,7 +117,6 @@ Apply2Rent provides a comprehensive tenant score including:
 Track all your applications in one place:
 - **Active Applications** - Currently under review
 - **Application History** - Past applications and outcomes
-- **Saved Properties** - Properties you're interested in
 - **Required Actions** - Items needing your attention
 
 ![Applications Overview](../screenshots/a2r-applications.png)
@@ -133,10 +131,10 @@ Landlords may request additional information:
 ## Payment and Subscription
 
 ### $40/Month Unlimited Applications
-- **Apply to unlimited properties** during your subscription
+- **Apply to unlimited properties** for a full 30-day period
 - **No per-application fees** - one price covers everything
-- **Cancel anytime** - No long-term commitments
-- **Automatic renewal** - Convenient monthly billing
+- **Discontinue anytime** - No long-term subscription commitments
+<!-- - **Automatic renewal** - Convenient monthly billing -->
 
 ### What's Included
 - Unlimited rental applications
@@ -154,10 +152,9 @@ Landlords may request additional information:
 ✅ **Add emergency contacts** who can be reached easily  
 
 ### Application Strategy
-🎯 **Apply quickly** to desirable properties  
-📝 **Include personal messages** to landlords when possible  
+🎯 **Apply quickly** to desirable properties   
 💰 **Ensure income meets** 2.5-3x rent requirements  
-📞 **Respond promptly** to landlord requests  
+📝 **Respond promptly** to landlord requests  
 
 ### Improving Your Chances
 - **Higher credit score** increases approval likelihood
@@ -168,7 +165,6 @@ Landlords may request additional information:
 ## Support and Help
 
 ### Getting Help
-- **In-app support** - Contact us through your tenant dashboard
 - **Email support** - info@apply2rent.com
 - **Phone support** - During business hours (9 AM - 5 PM HST)
 
@@ -180,4 +176,4 @@ Landlords may request additional information:
 
 ---
 
-**Ready to get started?** Begin by [Setting Up Your Profile](profile-setup.md) to create your comprehensive tenant profile.
+**Ready to get started?** Begin by [Setting Up Your Profile](tenant/profile-setup.md) to create your comprehensive tenant profile.

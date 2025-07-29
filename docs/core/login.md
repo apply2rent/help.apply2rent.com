@@ -1,6 +1,6 @@
 # Login
 
-Learn how to securely access your Apply2Rent account and manage your login sessions.
+Learn how to securely access your Apply2Rent.com account and manage your login sessions.
 
 ## How to Login
 
@@ -11,7 +11,7 @@ Learn how to securely access your Apply2Rent account and manage your login sessi
 
 ### Step 2: Choose Your Login Method
 
-Apply2Rent supports two login methods:
+Apply2Rent.com supports two login methods:
 
 #### Option A: Google Sign-In (If you registered with Google)
 1. Click **"Continue with Google"**
@@ -64,7 +64,7 @@ If you can't remember your password:
 - Check if you registered with Google instead of email/password
 
 **Google Sign-In Issues**
-- Ensure pop-ups are enabled for Apply2Rent
+- Ensure pop-ups are enabled for Apply2Rent.com
 - Clear your browser cache and cookies
 - Try disabling browser extensions temporarily
 - Make sure you're selecting the correct Google account
@@ -100,7 +100,7 @@ Returning users will see:
 ## Staying Logged In
 
 ### Session Management
-- Your session will remain active while you use Apply2Rent
+- Your session will remain active while you use Apply2Rent.com
 - Sessions automatically extend with activity
 - You'll be logged out after 30 days of inactivity for security
 
@@ -124,7 +124,7 @@ Returning users will see:
 ## Security Best Practices
 
 🔐 **Password Security**
-- Use a unique, strong password for Apply2Rent
+- Use a unique, strong password for Apply2Rent.com
 - Consider using a password manager
 - Never share your login credentials
 
@@ -140,4 +140,4 @@ Returning users will see:
 
 ---
 
-**Next Steps:** Once logged in, learn about [Property Search](property-search.md) to find rental properties.
+**Next Steps:** Once logged in, learn about [Changing Your Password](core/password-change.md).

@@ -5,10 +5,10 @@ Your landlord profile establishes your credibility as a property owner and provi
 ## Landlord Profile Overview
 
 Your landlord profile includes:
-- **Basic contact information** - How tenants and Apply2Rent can reach you
-- **Property management details** - Your experience and specialties
-- **Verification information** - Credentials and legal compliance
-- **Communication preferences** - How you prefer to handle inquiries
+- **Basic contact and identification information** - How tenants and Apply2Rent.com can reach you
+<!-- - **Property management details** - Your experience and specialties -->
+<!-- - **Verification information** - Credentials and legal compliance -->
+<!-- - **Communication preferences** -   you prefer to handle inquiries -->
 
 ## Required Profile Information
 
@@ -21,7 +21,7 @@ Your landlord profile includes:
 - **Professional presentation** for tenant communication
 
 #### **Phone Number**
-- **Primary contact number** for tenant and Apply2Rent communication
+- **Primary contact number** for tenant and Apply2Rent.com communication
 - **Business line preferred** if available
 - **Must accept calls and text messages**
 - **Available during reasonable hours** for urgent communication
@@ -30,7 +30,7 @@ Your landlord profile includes:
 - **Professional email address** for all correspondence
 - **Regularly monitored** - Check daily for application notifications
 - **Business domain preferred** if you have a property management company
-- **Used for all Apply2Rent notifications** and tenant communication
+- **Used for all Apply2Rent.com notifications** and tenant communication
 
 #### **Mailing Address**
 - **Business address** where you can receive legal documents
@@ -38,7 +38,7 @@ Your landlord profile includes:
 - **Must be current and accurate** for legal compliance
 - **Used for official correspondence** and documentation
 
-### Property Management Experience
+<!-- ### Property Management Experience
 
 #### **Years of Experience**
 Indicate your experience level:
@@ -83,12 +83,12 @@ Required insurance coverage:
 - **Liability insurance** - General liability coverage
 - **Property insurance** - Landlord/rental property coverage
 - **Umbrella policy** - Additional liability protection if applicable
-- **Professional liability** - For property management companies
+- **Professional liability** - For property management companies -->
 
 ## Verification Process
 
 ### Identity Verification
-Apply2Rent may require:
+Apply2Rent.com may require:
 - **Government-issued ID** - Driver's license or state ID
 - **Business documentation** - Articles of incorporation, business license
 - **Property ownership** - Deed, mortgage statement, or property tax records
@@ -108,7 +108,7 @@ Verification may include:
 - **Insurance coverage** - Adequate property and liability insurance
 - **Legal compliance** - No outstanding judgments or liens
 
-## Communication Preferences
+<!-- ## Communication Preferences
 
 ### Response Time Expectations
 Set tenant expectations for:
@@ -122,26 +122,26 @@ Indicate preferences for:
 - **Email** - Detailed communication and documentation
 - **Phone calls** - Urgent matters and personal discussion
 - **Text messages** - Quick updates and confirmations
-- **Apply2Rent messaging** - Platform-based communication
+- **Apply2Rent.com messaging** - Platform-based communication
 
 ### Business Hours
 Set clear availability:
 - **Office hours** - When you're available for non-emergency contact
 - **Emergency contact** - 24/7 availability for true emergencies
 - **Response time** - Expected time for returning calls/emails
-- **Weekend availability** - Saturday/Sunday communication preferences
+- **Weekend availability** - Saturday/Sunday communication preferences -->
 
 ## Property Management Philosophy
 
 ### Tenant Relations Approach
-Describe your management style:
+Determine your management style:
 - **Professional and responsive** - Business-like but friendly approach
 - **Hands-on management** - Direct involvement in property management
 - **Maintenance philosophy** - Proactive vs. reactive maintenance approach
 - **Communication style** - Formal business vs. friendly personal approach
 
 ### Property Standards
-Outline your standards:
+Know your standards:
 - **Property condition** - Maintenance and cleanliness expectations
 - **Tenant expectations** - Lease compliance and property care
 - **Response to issues** - How you handle tenant concerns
@@ -200,7 +200,6 @@ Annually review and update:
 - **Business information** - Company changes or registration updates
 - **Professional development** - New certifications or training
 - **Market knowledge** - Updated experience and specialties
-- **Communication preferences** - Adjust based on business growth
 
 ### Compliance Monitoring
 Regularly verify:
@@ -214,17 +213,15 @@ Regularly verify:
 ### Profile Completion Steps
 1. **Complete basic information** - Contact details and business info
 2. **Verify credentials** - Upload required documentation
-3. **Set communication preferences** - Response times and methods
-4. **Review and save** - Ensure all information is accurate
-5. **Begin property listings** - Start adding your rental properties
+3. **Review and save** - Ensure all information is accurate
+4. **Begin property listings** - Start adding your rental properties
 
 ### Support and Assistance
 If you need help with profile setup:
-- **Live chat** - Available during business hours
 - **Email support** - info@apply2rent.com
 - **Setup assistance** - Guided profile completion help
 - **Video tutorials** - Step-by-step profile setup guides
 
 ---
 
-**Next Steps:** With your profile set up, learn about [Creating Property Listings](creating-listings.md) to add your rental properties to Apply2Rent.
+**Next Steps:** With your profile set up, learn about [Creating Property Listings](landlord/creating-listings.md) to add your rental properties to Apply2Rent.com.

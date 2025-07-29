@@ -1,10 +1,10 @@
 # Email Notifications
 
-Stay informed about your Apply2Rent applications, account updates, and important information through our comprehensive email notification system.
+Stay informed about your Apply2Rent.com applications, account updates, and important information through our comprehensive email notification system.
 
 ## Notification Overview
 
-Apply2Rent sends email notifications to keep you updated on:
+Apply2Rent.com sends email notifications to keep you updated on:
 - **Application status changes** - When your applications progress
 - **Account updates** - Changes to your profile or subscription
 - **Property updates** - Changes to saved properties
@@ -16,14 +16,12 @@ Apply2Rent sends email notifications to keep you updated on:
 ### Application Submission Confirmation
 **When sent:** Immediately after submitting an application  
 **Content includes:**
-- Application confirmation number
 - Property details you applied to
 - Next steps in the process
-- Timeline expectations
 
 **Sample notification:**
 > **Subject:** Application Submitted - [Property Address]  
-> Your application for [Property Address] has been successfully submitted. Application ID: #12345. The landlord has been notified and will begin reviewing your application. You can track your application status in your Apply2Rent dashboard.
+> Your application for [Property Address] has been successfully submitted. The landlord has been notified and will begin reviewing your application. You can track your application status in your Apply2Rent.com applications dashboard.
 
 ### Status Update Notifications
 **When sent:** Each time your application status changes
@@ -50,8 +48,8 @@ Apply2Rent sends email notifications to keep you updated on:
 - **Encouragement** to continue applying to other properties
 - **Resources** for improving future applications
 
-### Landlord Communication Notifications
-**When sent:** When landlords send you messages or requests
+### Direct Landlord Communications
+**Important Note:** Direct communications from landlords happen outside Apply2Rent.com's platform. Exercise caution and good judgment in these interactions, as Apply2Rent.com does not facilitate, monitor, or take responsibility for direct landlord communications.
 
 **Content includes:**
 - **Direct messages** from property owners
@@ -59,20 +57,25 @@ Apply2Rent sends email notifications to keep you updated on:
 - **Interview requests** - Video calls or property viewing invitations
 - **Urgent communications** - Time-sensitive information
 
+**Best Practices:**
+- Verify landlord identity matches property listing
+- Keep records of all communications
+- Use caution sharing sensitive information
+- Report suspicious behavior to Apply2Rent.com support
+
 ## Account Notifications
 
-### Profile Update Confirmations
+<!-- ### Profile Update Confirmations
 **When sent:** After making changes to your profile
 - **Personal information** changes
 - **Employment updates** 
 - **Document uploads** or replacements
-- **Additional information** modifications
+- **Additional information** modifications -->
 
 ### Security Notifications
 **When sent:** For account security events
 - **Password changes** - Confirmation of password updates
 - **Login alerts** - Unusual login activity (if enabled)
-- **Email changes** - Confirmation of email address updates
 - **Account recovery** - Password reset confirmations
 
 ### Verification Notifications
@@ -84,37 +87,36 @@ Apply2Rent sends email notifications to keep you updated on:
 
 ## Payment and Billing Notifications
 
-### Subscription Notifications
+### Payment Notifications
 
 #### **Payment Confirmations**
-**When sent:** After successful subscription payments
+**When sent:** After successful payments
 - **Payment amount** and date
-- **Payment method** used (last 4 digits)
-- **Subscription period** covered
-- **Receipt download** link
+- **Payment method** used
+- **Payment period** covered
 
-#### **Payment Failure Alerts**
+<!-- #### **Payment Failure Alerts**
 **When sent:** If subscription payment fails
 - **Failed payment** notification with reason
 - **Retry schedule** - When next attempt will occur
 - **Update payment method** instructions
-- **Service continuation** timeline
+- **Service continuation** timeline -->
 
-#### **Subscription Changes**
+<!-- #### **Subscription Changes**
 **When sent:** When you modify your subscription
 - **Cancellation confirmations** - Subscription ended
 - **Reactivation notices** - Subscription restarted
 - **Payment method updates** - New card on file
-- **Billing date changes** - Modified billing schedule
+- **Billing date changes** - Modified billing schedule -->
 
-### Billing Reminders
+<!-- ### Billing Reminders
 **When sent:** Before subscription renewal
 - **Upcoming payment** reminders (24-48 hours before)
 - **Payment method expiration** warnings
 - **Subscription renewal** confirmations
-- **Annual billing summaries** (if applicable)
+- **Annual billing summaries** (if applicable) -->
 
-## Property Notifications
+<!-- ## Property Notifications
 
 ### Saved Property Updates
 **When sent:** Changes to properties you've saved
@@ -140,12 +142,12 @@ Apply2Rent sends email notifications to keep you updated on:
 - **Search criteria matches** - New properties meeting your preferences
 - **Neighborhood alerts** - New properties in areas you're interested in
 - **Price range matches** - Properties within your budget
-- **Feature matches** - Properties with amenities you want
+- **Feature matches** - Properties with amenities you want -->
 
 ## System Communications
 
 ### Platform Updates
-**When sent:** Important Apply2Rent announcements
+**When sent:** Important Apply2Rent.com announcements
 - **New features** - Platform improvements and additions
 - **Policy changes** - Terms of service or privacy policy updates
 - **Maintenance notifications** - Scheduled system maintenance
@@ -156,13 +158,13 @@ Apply2Rent sends email notifications to keep you updated on:
 - **Rental market insights** - Local market trends and information
 - **Application tips** - Advice for improving application success
 - **Legal updates** - Changes in tenant rights or rental laws
-- **Best practices** - Guidance for using Apply2Rent effectively
+- **Best practices** - Guidance for using Apply2Rent.com effectively
 
-## Managing Email Preferences
+<!-- ## Managing Email Preferences
 
 ### Notification Settings
 Control which emails you receive:
-1. **Log in** to your Apply2Rent account
+1. **Log in** to your Apply2Rent.com account
 2. **Go to Profile Settings** or **Account Preferences**
 3. **Select Email Notifications** section
 4. **Choose notification types** you want to receive
@@ -199,7 +201,7 @@ Control which emails you receive:
 #### **Alternative Email**
 - **Backup communication** method
 - **Emergency contact** if primary email unavailable
-- **Optional setting** - Not required but recommended
+- **Optional setting** - Not required but recommended -->
 
 ## Email Troubleshooting
 
@@ -207,7 +209,7 @@ Control which emails you receive:
 
 #### **Check Spam/Junk Folders**
 - **Look in spam** - Notifications may be filtered
-- **Mark as safe** - Add Apply2Rent to safe senders list
+- **Mark as safe** - Add Apply2Rent.com to safe senders list
 - **Check filters** - Email rules may be blocking notifications
 
 #### **Email Settings Issues**
@@ -218,7 +220,7 @@ Control which emails you receive:
 #### **Common Solutions**
 1. **Add to contacts** - Add info@apply2rent.com to your address book
 2. **Whitelist domain** - Allow emails from apply2rent.com
-3. **Check blocked senders** - Ensure Apply2Rent isn't blocked
+3. **Check blocked senders** - Ensure Apply2Rent.com isn't blocked
 4. **Try different email** - Use alternative email address
 
 ### Email Delivery Delays
@@ -234,7 +236,7 @@ If emails are significantly delayed:
 - **Server issues** - Temporary email server problems
 - **Contact support** - Report persistent delivery issues
 
-### Unsubscribing from Emails
+<!-- ### Unsubscribing from Emails
 
 #### **Essential Notifications**
 - **Cannot unsubscribe** from critical account notifications
@@ -244,18 +246,18 @@ If emails are significantly delayed:
 #### **Optional Notifications**
 - **Use unsubscribe links** in email footers
 - **Update preferences** in account settings
-- **Contact support** for assistance with email preferences
+- **Contact support** for assistance with email preferences -->
 
 ## Best Practices
 
 ### Email Management Tips
 - **Check emails regularly** - Don't miss important updates
 - **Keep email current** - Update address if you change emails
-- **Organize notifications** - Create folders for Apply2Rent emails
+- **Organize notifications** - Create folders for Apply2Rent.com emails
 - **Act on time-sensitive** emails promptly
 
 ### Security Considerations
-- **Verify sender** - Ensure emails are from Apply2Rent
+- **Verify sender** - Ensure emails are from Apply2Rent.com
 - **Don't click suspicious links** - Verify URLs before clicking
 - **Report phishing** - Forward suspicious emails to support
 - **Keep account secure** - Don't share login information

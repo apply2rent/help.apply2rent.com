@@ -24,7 +24,7 @@ Saving properties allows you to:
 #### Method 2: Property Details Page
 1. Click on a property to view full details
 2. On the property details page, click **"Save Property"**
-3. The button will change to **"Saved"** with a checkmark
+3. The button will change to **"Saved"**
 4. Property is added to your favorites
 
 ![Property Details with Save Option](../screenshots/a2r-property-details.png)
@@ -37,7 +37,7 @@ Saving properties allows you to:
 
 **Saved Properties:**
 - Filled heart (❤️)
-- "Saved" button with checkmark (✓)
+- "Saved" button
 - Highlighted in your saved properties list
 
 ## Managing Saved Properties
@@ -45,8 +45,13 @@ Saving properties allows you to:
 ### Accessing Your Saved Properties
 
 #### From Main Navigation
-1. Click **"Properties"** in the top navigation
-2. Look for **"Saved"** or **"❤️ Saved Properties"** section
+1. Click your **User Icon** in the top navigation
+2. Look for the **"❤️ Saved Properties"** section
+3. View all your saved properties in one place
+
+#### From Profile Page
+1. Select **"Profile"** from the top navigation
+2. Click the **❤️ button** in the top right corner of the Profile page
 3. View all your saved properties in one place
 
 #### Quick Access Counter
@@ -60,7 +65,7 @@ Saving properties allows you to:
 Each saved property displays:
 - **Property photo** and basic details
 - **Current availability** status
-- **Price changes** since you saved it
+<!-- - **Price changes** since you saved it -->
 - **Date saved** for your reference
 
 #### **Management Options**
@@ -71,7 +76,7 @@ Each saved property displays:
 
 ### Organizing Saved Properties
 
-#### **Sorting Options**
+<!-- #### **Sorting Options**
 Organize your saved properties by:
 - **Date Saved** - Most recent first
 - **Price** - Low to high or high to low
@@ -83,12 +88,12 @@ Apply filters to your saved list:
 - **Price range** filtering
 - **Bedroom/bathroom** requirements
 - **Availability status**
-- **Property type**
+- **Property type** -->
 
-## Saved Properties Notifications
+<!-- ## Saved Properties Notifications
 
 ### Automatic Updates
-Apply2Rent keeps you informed about your saved properties:
+Apply2Rent.com keeps you informed about your saved properties:
 
 #### **Price Changes**
 - **Price decrease** - Get notified when rent drops
@@ -109,7 +114,7 @@ Apply2Rent keeps you informed about your saved properties:
 Control how you receive updates:
 - **Email notifications** - Daily or weekly summaries
 - **In-app notifications** - Real-time updates when logged in
-- **Mobile push** - Instant alerts on your device (if applicable)
+- **Mobile push** - Instant alerts on your device (if applicable) -->
 
 ## Unsaving Properties
 
@@ -127,21 +132,22 @@ Control how you receive updates:
 
 #### From Saved Properties Page
 1. Find the property you want to remove
-2. Click **"Remove"** or trash icon
+2. Click the filled heart (❤️) to unsave
 3. Confirm removal if prompted
 4. Property disappears from saved list
 
-### Bulk Management
+<!-- ### Bulk Management
 Remove multiple properties at once:
 1. Go to your saved properties page
 2. Select checkboxes for properties to remove
 3. Click **"Remove Selected"** button
-4. Confirm bulk removal
+4. Confirm bulk removal -->
 
 ## Saved Properties Limits
 
 ### Storage Limits
-- **Free accounts:** Save up to 50 properties
+<!-- - **Free accounts:** Save up to 50 properties -->
+- **Unlimited saves:** Save as many properties as you want with no restrictions
 - **No expiration:** Saved properties don't automatically expire
 - **Clean up:** Regularly review and remove outdated saves
 
@@ -149,7 +155,6 @@ Remove multiple properties at once:
 - **Regular review** - Check saved properties weekly
 - **Remove unavailable** - Clean out rented properties
 - **Prioritize favorites** - Keep your top choices easily accessible
-- **Use folders/tags** - Organize by neighborhood or priority (if available)
 
 ## Sharing Saved Properties
 
@@ -161,19 +166,18 @@ You can easily share your saved properties with others:
 3. Add personal message if desired
 4. Send to family, friends, or roommates
 
-### Sharing Your Saved List
+<!-- ### Sharing Your Saved List
 1. Go to your saved properties page
 2. Click **"Share List"** or similar option
 3. Generate a shareable link to your favorites
-4. Others can view (but not modify) your saved properties
+4. Others can view (but not modify) your saved properties -->
 
 ## Mobile Saved Properties
 
 ### Mobile Features
 - **Touch-friendly** save/unsave actions
 - **Swipe gestures** for quick management
-- **Offline access** to saved property basic info
-- **Push notifications** for saved property updates
+<!-- - **Push notifications** for saved property updates -->
 
 ### Mobile Tips
 - Save properties while out exploring neighborhoods
@@ -182,4 +186,4 @@ You can easily share your saved properties with others:
 
 ---
 
-**Next Steps:** Learn how to [Share Properties](sharing-properties.md) with others to get opinions and feedback on your choices.
+**Next Steps:** Learn how to [Share Properties](core/sharing-properties.md) with others to get opinions and feedback on your choices.

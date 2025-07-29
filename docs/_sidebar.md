@@ -4,6 +4,7 @@
   - [Getting Started](core/README.md)
   - [Registration](core/registration.md)
   - [Login](core/login.md)
+  - [Changing Your Password](core/password-change.md)
   - [Property Search](core/property-search.md)
   - [Saving Properties](core/saving-properties.md)
   - [Sharing Properties](core/sharing-properties.md)

@@ -33,7 +33,7 @@ The Personal Information section includes:
 
 **Requirements:**
 - Valid email format (name@domain.com)
-- Not already associated with another Apply2Rent account
+- Not already associated with another Apply2Rent.com account
 - Accessible for verification emails
 
 #### **Phone Number**
@@ -97,18 +97,15 @@ The Personal Information section includes:
 
 #### **Contact Name**
 - **Full legal name** of emergency contact
-- **Relationship to you** (parent, sibling, friend, etc.)
 - **Should be someone always reachable**
 
 #### **Contact Information**
 - **Phone number** - Primary contact method
-- **Email address** - For non-urgent communications
-- **Address** - Emergency contact's address
 
-#### **Relationship**
+<!-- #### **Relationship**
 - **Family member** (parent, sibling, spouse)
 - **Close friend** who knows you well
-- **Professional reference** (employer, mentor)
+- **Professional reference** (employer, mentor) -->
 
 **Best Practices:**
 - Choose someone who will always answer calls
@@ -125,7 +122,7 @@ The Personal Information section includes:
    - Select "Personal Info" tab
 
 2. **Fill Required Fields**
-   - Complete all fields marked with asterisks (*)
+   - Complete all fields not marked as optional
    - Double-check spelling and accuracy
    - Use dropdown menus where provided
 
@@ -206,15 +203,14 @@ If you update certain information, you may need new documents:
 ### What Landlords See
 When you apply to a property, landlords can see:
 - Your name and contact information
-- Current address
+- Current residence information
 - Emergency contact details
-- Age (calculated from date of birth)
 
 ### What Landlords Cannot See
 - Your government ID number
-- Full date of birth
+- Date of birth
+- Current or previous addresses
 - Other applications you've submitted
-- Personal communications with other landlords
 
 ## Troubleshooting
 
@@ -231,7 +227,7 @@ When you apply to a property, landlords can see:
 - Try removing any special characters
 
 **"Email already in use"**
-- Each email can only have one Apply2Rent account
+- Each email can only have one Apply2Rent.com account
 - Try logging in instead of creating new account
 - Contact support if you forgot your password
 
@@ -249,4 +245,4 @@ If you encounter issues:
 
 ---
 
-**Next Steps:** After completing your personal information, continue with [Employment Information](employment.md) to add your job and income details.
+**Next Steps:** After completing your personal information, continue with [Employment Information](tenant/employment.md) to add your job and income details.

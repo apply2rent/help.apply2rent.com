@@ -1,14 +1,14 @@
-# Apply2Rent Help Documentation
+# Apply2Rent.com Help Documentation
 
-Welcome to the comprehensive help documentation for **Apply2Rent** - The Easy Rental Application platform that connects landlords and tenants through streamlined property listings and rental applications.
+Welcome to the comprehensive help documentation for **Apply2Rent.com** - The Easy Rental Application platform that connects landlords and tenants through streamlined property listings and rental applications.
 
 <div style="text-align: center;">
-  <img src="./a2r-logo.png" alt="Apply2Rent Logo" width="300" />
+  <img src="./a2r-logo.png" alt="Apply2Rent.com Logo" width="300" />
 </div>
 
-## What is Apply2Rent?
+## What is Apply2Rent.com?
 
-Apply2Rent is a modern rental property management platform that makes finding and applying for rental properties simple and secure. Our platform serves both tenants looking for their next home and landlords seeking qualified tenants.
+Apply2Rent.com is a modern rental property management platform that makes finding and applying for rental properties simple and secure. Our platform serves both tenants looking for their next home and landlords seeking qualified tenants.
 
 ### Key Features
 
@@ -28,9 +28,9 @@ Apply2Rent is a modern rental property management platform that makes finding an
 
 ## Getting Started
 
-Choose your path to get started with Apply2Rent:
+Choose your path to get started with Apply2Rent.com:
 
-### 🏠 **New to Apply2Rent?**
+### 🏠 **New to Apply2Rent.com?**
 Start with our [Core Features](core/README.md) to learn the basics of registration, login, and property search.
 
 ### 🏢 **I'm a Tenant**
@@ -57,4 +57,4 @@ Need additional help? We're here to assist you!
 
 ---
 
-*This documentation covers all aspects of using the Apply2Rent platform. Use the search feature above or navigate through the sections using the sidebar to find specific information.*
+*This documentation covers all aspects of using the Apply2Rent.com platform. Use the search feature above or navigate through the sections using the sidebar to find specific information.*

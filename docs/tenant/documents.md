@@ -4,7 +4,7 @@ Document verification is a critical part of the rental application process. Prop
 
 ## Required Documents Overview
 
-Apply2Rent requires specific documents to verify your identity, income, and financial stability:
+Apply2Rent.com requires specific documents to verify your identity, income, and financial stability:
 
 ### **Essential Documents**
 1. **Government-issued Photo ID** - Driver's license or state ID
@@ -160,7 +160,6 @@ To protect sensitive information:
 - **PDF** - Preferred format for multi-page documents
 - **JPG/JPEG** - Acceptable for photos of documents
 - **PNG** - Good for scanned documents
-- **Maximum file size** - Usually 10MB per file
 
 #### **Upload Steps**
 1. **Navigate to Documents section** in your profile
@@ -168,7 +167,6 @@ To protect sensitive information:
 3. **Click "Choose File"** or drag-and-drop
 4. **Wait for upload completion** 
 5. **Verify document appears** in your profile
-6. **Add description** if needed
 
 #### **Mobile Upload**
 - **Use device camera** to photograph documents
@@ -185,13 +183,13 @@ Use clear, descriptive names:
 - "Bank_Statement_February_2025.pdf"
 - "Employment_Offer_Letter.pdf"
 
-#### **Document Labels**
-Apply2Rent allows you to label uploads:
+<!-- #### **Document Labels**
+Apply2Rent.com allows you to label uploads:
 - **Driver's License** - Government ID
 - **Pay Stub** - Income verification
 - **Bank Statement** - Financial verification
 - **Tax Return** - Self-employment income
-- **Other** - Specify in description
+- **Other** - Specify in description -->
 
 ## Additional Documents
 
@@ -246,8 +244,8 @@ Apply2Rent allows you to label uploads:
 
 ### Who Can See Your Documents
 - **You** - Full access to manage your documents
-- **Landlords** - Only when you apply to their properties
-- **Apply2Rent staff** - For verification and support only
+- **Landlords** - May gain access when you apply to their properties
+- **Apply2Rent.com staff** - For verification and support only
 - **No third parties** - Never sold or shared inappropriately
 
 ## Document Verification Process
@@ -305,4 +303,4 @@ Apply2Rent allows you to label uploads:
 
 ---
 
-**Next Steps:** Complete your profile with [Additional Information](additional-info.md) about pets, vehicles, and background details.
+**Next Steps:** Complete your profile with [Additional Information](tenant/additional-info.md) about pets, vehicles, and background details.

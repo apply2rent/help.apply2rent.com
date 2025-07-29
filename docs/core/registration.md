@@ -1,6 +1,6 @@
 # Registration
 
-Creating your Apply2Rent account is the first step to using our platform. This guide will walk you through the registration process.
+Creating your Apply2Rent.com account is the first step to using our platform. This guide will walk you through the registration process.
 
 ## How to Register
 
@@ -12,7 +12,7 @@ Creating your Apply2Rent account is the first step to using our platform. This g
 
 ### Step 2: Choose Your Registration Method
 
-Apply2Rent offers two convenient ways to register:
+Apply2Rent.com offers two convenient ways to register:
 
 #### Option A: Google Sign-Up (Recommended)
 1. Click **"Continue with Google"**
@@ -70,7 +70,7 @@ Once you've selected your account type, you'll be directed to complete your prof
 ### Email Requirements
 - Must be a valid email address
 - Will be used for account verification and notifications
-- Cannot be associated with an existing Apply2Rent account
+- Cannot be associated with an existing Apply2Rent.com account
 
 ### Password Requirements
 - Minimum 8 characters
@@ -82,7 +82,7 @@ Once you've selected your account type, you'll be directed to complete your prof
 ### Common Issues
 
 **"Email already exists"**
-- This email is already registered with Apply2Rent
+- This email is already registered with Apply2Rent.com
 - Try logging in instead of registering
 - Use the "Forgot Password" link if needed
 
@@ -106,13 +106,13 @@ Once you've selected your account type, you'll be directed to complete your prof
    - Complete your basic profile information
    - Add required details based on your account type
 
-3. **Start Using Apply2Rent**
+3. **Start Using Apply2Rent.com**
    - **Tenants:** Begin searching for properties
    - **Landlords:** Start creating your first property listing
 
 ## Security & Privacy
 
-Apply2Rent takes your security seriously:
+Apply2Rent.com takes your security seriously:
 
 - 🔒 All passwords are encrypted and securely stored
 - 🛡️ Personal information is protected with industry-standard security
@@ -121,4 +121,4 @@ Apply2Rent takes your security seriously:
 
 ---
 
-**Next Steps:** Once registered, learn how to [Login](login.md) to your account.
+**Next Steps:** Once registered, learn how to [Login](core/login.md) to your account.

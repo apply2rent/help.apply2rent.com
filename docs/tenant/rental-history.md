@@ -22,7 +22,7 @@ Strong rental history can:
 ## Required Rental History Information
 
 ### Previous Rental Addresses
-Include your last 2-3 rental addresses (past 5 years recommended):
+Include your last 2 rental addresses (past 3 years recommended):
 
 #### **Property Address**
 - **Complete street address** of previous rental
@@ -36,15 +36,13 @@ Include your last 2-3 rental addresses (past 5 years recommended):
 
 #### **Monthly Rent Amount**
 - **Actual rent paid** during tenancy
-- **Include any rent increases** that occurred
-- **Final rent amount** when you moved out
 
-#### **Property Type**
+<!-- #### **Property Type**
 - Apartment
 - House
 - Condo/Townhouse
 - Room rental
-- Other
+- Other -->
 
 ### Landlord/Property Manager Information
 
@@ -56,15 +54,8 @@ Include your last 2-3 rental addresses (past 5 years recommended):
 #### **Contact Information**
 - **Phone number** - Primary contact method
 - **Email address** - For written verification
-- **Mailing address** - Business address preferred
 
-#### **Relationship**
-- Direct property owner
-- Property management company
-- Leasing agent
-- Roommate's landlord (if subletting)
-
-## Rental Payment History
+<!-- ## Rental Payment History
 
 ### Payment Record Details
 
@@ -99,7 +90,7 @@ If you had late payments:
 - **Full refund** - Excellent property condition
 - **Partial refund** - Minor deductions for wear/tear
 - **No refund** - Significant damages or cleaning needed
-- **Amount returned** and reasons for any deductions
+- **Amount returned** and reasons for any deductions -->
 
 ## Reason for Moving
 
@@ -144,12 +135,12 @@ Previous landlords may be contacted to verify:
 4. **Address any concerns** proactively
 5. **Provide current contact** information
 
-### Reference Letters
+<!-- ### Reference Letters
 Consider requesting written references:
 - **Positive rental experience** letters
 - **On-time payment** confirmations
 - **Property care** testimonials
-- **Character references** from landlords
+- **Character references** from landlords -->
 
 ## First-Time Renters
 
@@ -162,12 +153,12 @@ Don't worry - you can still build a strong application:
 - **Roommate situations** where you paid rent informally
 - **Dorm residence** or student housing experience
 
-#### **Character References**
+<!-- #### **Character References**
 Include non-landlord references who can vouch for your reliability:
 - **Employers** - Work reliability and responsibility
 - **Teachers/Professors** - Academic responsibility
 - **Personal references** - Character and trustworthiness
-- **Community leaders** - Volunteer work or community involvement
+- **Community leaders** - Volunteer work or community involvement -->
 
 #### **Financial Stability**
 Demonstrate financial responsibility through:
@@ -251,4 +242,4 @@ For future applications:
 
 ---
 
-**Next Steps:** After documenting your rental history, move on to [Documents](documents.md) to upload required verification files.
+**Next Steps:** After documenting your rental history, move on to [Documents](tenant/documents.md) to upload required verification files.

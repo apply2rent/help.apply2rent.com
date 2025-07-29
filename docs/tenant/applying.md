@@ -1,10 +1,10 @@
 # Applying to Properties
 
-Learn how to submit successful rental applications using Apply2Rent's streamlined application process.
+Learn how to submit successful rental applications using Apply2Rent.com's streamlined application process.
 
 ## Application Process Overview
 
-Apply2Rent's application process consists of four main steps:
+Apply2Rent.com's application process consists of four main steps:
 1. **Property Selection** - Choose a property to apply for
 2. **Profile Review** - Verify your profile information is complete
 3. **Payment Processing** - Subscribe to unlimited applications ($40/month)
@@ -33,7 +33,7 @@ Before applying to any property:
 - **Review property details** carefully
 - **Ensure you meet requirements** (income, pets, etc.)
 - **Prepare application timeline** - Some properties require quick responses
-- **Have payment method ready** - Credit card for subscription
+- **Have payment method ready** - Credit card for payment
 
 ## Step-by-Step Application Process
 
@@ -69,36 +69,36 @@ Review each section for accuracy:
 
 #### **Quick Edits**
 If information needs updating:
-- **Click "Edit" buttons** for each section
+- **Click "Edit Profile" button** at top of section
 - **Make necessary changes** 
 - **Save updates** before proceeding
 - **Return to application** to continue
 
 ### Step 3: Payment Processing
 
-#### **Subscription Model**
-Apply2Rent uses a subscription model:
+#### **Payment Model**
+Apply2Rent.com uses a pay-per-use model:
 - **$40 per month** for unlimited applications
-- **Apply to multiple properties** with one subscription
-- **Cancel anytime** - No long-term commitments
-- **Automatic renewal** unless cancelled
+- **Apply to unlimited properties** with each payment
+- **Discontinue anytime** - No long-term commitments
+- **No automatic renewal**
 
 #### **Payment Methods**
 - **Credit cards** - Visa, MasterCard, American Express, Discover
 - **Debit cards** - With credit card logos
 - **Secure processing** - Bank-level encryption via Stripe
 
-#### **First-Time Payment**
+#### **Each New Payment**
 1. **Enter payment information** - Card details and billing address
-2. **Review subscription terms** - $40/month, cancel anytime
+2. **Review application fee terms** - $40 one time payment
 3. **Authorize payment** - Agree to terms and submit
 4. **Payment confirmation** - Receive confirmation of successful payment
 
-#### **Existing Subscribers**
-If you already have an active subscription:
+#### **Active Payments**
+If you already have an active payment:
 - **Skip payment step** - Proceed directly to submission
-- **Subscription status** shown in application
-- **Billing management** available in profile settings
+- **Payment status** shown in application
+- **Payment management** available in profile settings
 
 ### Step 4: Application Submission
 
@@ -106,7 +106,7 @@ If you already have an active subscription:
 Before submitting:
 - **Review all information** one final time
 - **Check property details** - Ensure it's the right property
-- **Verify contact information** - Critical for landlord communication
+- **Enter desired move-in date** - Specify when you hope to move in
 - **Read application summary** - Overview of what you're submitting
 
 #### **Terms and Conditions**
@@ -117,6 +117,7 @@ Before submitting:
 
 #### **Submit Application**
 - **Click "Submit Application"** button
+- **Provide SSN** for use in credit and background checks
 - **Confirmation screen** appears immediately
 - **Application ID number** provided for tracking
 - **Email confirmation** sent to your registered email
@@ -149,7 +150,7 @@ Typical application timeline:
 ### Status Definitions
 
 #### **Pending**
-- **Just submitted** - Application received by Apply2Rent
+- **Just submitted** - Application received by Apply2Rent.com
 - **Landlord notified** - Application sent to property owner
 - **Initial screening** - Basic application review in progress
 
@@ -200,7 +201,6 @@ Typical application timeline:
 - **Complete profile** - 100% completion shows seriousness
 - **Professional documents** - Clear, readable uploads
 - **Prompt responses** - Quick communication with landlords
-- **Personal touch** - Brief, professional message to landlord
 
 ### Application Timing
 
@@ -254,4 +254,4 @@ If approved for multiple properties:
 
 ---
 
-**Next Steps:** Learn about [Payment & Subscription](payment.md) management for your Apply2Rent account.
+**Next Steps:** Learn about [Payment & Subscription](tenant/payment.md) management for your Apply2Rent.com account.

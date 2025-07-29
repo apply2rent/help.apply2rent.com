@@ -24,23 +24,23 @@ Most landlords require tenants to have:
 ### Employment Status
 Select your current employment situation:
 
-#### **Full-time Employment**
+#### **Full Time Employment**
 - Working 35+ hours per week
 - Regular, ongoing position
 - W-2 employee with benefits
 - Most common and preferred by landlords
 
-#### **Part-time Employment**
+#### **Part Time Employment**
 - Working less than 35 hours per week
 - May need to show additional income sources
 - Include multiple part-time jobs if applicable
 
-#### **Self-employed/Contractor**
+#### **Self Employed**
 - Independent contractor or business owner
 - 1099 income or business profits
 - May require additional documentation (tax returns, bank statements)
 
-#### **Unemployed**
+<!-- #### **Unemployed**
 - Currently not working
 - May still qualify with other income sources
 - Consider co-signer or guarantor options
@@ -53,7 +53,7 @@ Select your current employment situation:
 #### **Retired**
 - Receiving retirement income
 - Include pension, Social Security, 401k distributions
-- Fixed income may be viewed favorably
+- Fixed income may be viewed favorably -->
 
 ### Current Employment Details
 
@@ -62,10 +62,10 @@ Select your current employment situation:
 - **Complete legal name** of the business
 - **Avoid abbreviations** unless that's the official name
 
-#### **Employer Address**
+<!-- #### **Employer Address**
 - **Physical business address** (not P.O. Box)
 - **Complete address** with city, state, ZIP
-- **Should match pay stub address**
+- **Should match pay stub address** -->
 
 #### **Employer Phone Number**
 - **Main business phone number**
@@ -73,21 +73,16 @@ Select your current employment situation:
 - **Direct supervisor number** if appropriate
 - **Number that can verify employment**
 
-#### **Job Title/Position**
+#### **Job Title/Occupation**
 - **Official job title** as shown on pay stubs
 - **Exact title** from your employee records
 - **Avoid casual descriptions** - use formal titles
 
-#### **Supervisor Name**
+<!-- #### **Supervisor Name**
 - **Direct supervisor's full name**
 - **Someone who can verify your employment**
 - **Available during business hours**
-- **Aware they may be contacted**
-
-#### **Employment Start Date**
-- **Date you began current position**
-- **MM/DD/YYYY format**
-- **Should match employment records**
+- **Aware they may be contacted** -->
 
 #### **Annual Gross Income**
 - **Before-tax income** from this job
@@ -95,7 +90,7 @@ Select your current employment situation:
 - **Include overtime** if regular and consistent
 - **Base salary** plus regular bonuses
 
-### Years at Current Job
+#### Years at Current Job
 Select how long you've been with your current employer:
 - **Less than 6 months** - May need previous employment info
 - **6 months to 1 year** - Generally acceptable
@@ -137,7 +132,7 @@ You may need to provide:
 - **Award letters** for government benefits
 - **Court orders** for support payments
 
-## Employment History
+<!-- ## Employment History
 
 ### Previous Employment (Optional but Recommended)
 If you've been at your current job less than 2 years, include previous employment:
@@ -154,7 +149,7 @@ If you have gaps in employment:
 - **Explain the reason** (education, family, health, etc.)
 - **Include any income** during the gap
 - **Show stability** before and after the gap
-- **Be honest** about circumstances
+- **Be honest** about circumstances -->
 
 ## Self-Employment Documentation
 
@@ -200,7 +195,7 @@ Self-employed tenants typically need:
 ## Employment Verification Process
 
 ### What to Expect
-Landlords or Apply2Rent may verify your employment by:
+Landlords or Apply2Rent.com may verify your employment by:
 - **Calling your employer** to confirm employment
 - **Requesting pay stubs** for income verification
 - **Contacting HR department** for employment dates
@@ -296,4 +291,4 @@ When employment changes:
 
 ---
 
-**Next Steps:** Continue building your profile with [Rental History](rental-history.md) to document your previous rental experiences.
+**Next Steps:** Continue building your profile with [Rental History](tenant/rental-history.md) to document your previous rental experiences.

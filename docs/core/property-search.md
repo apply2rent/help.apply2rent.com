@@ -1,6 +1,6 @@
 # Property Search
 
-Discover how to efficiently search and browse rental properties on Apply2Rent using our powerful search tools and interactive map features.
+Discover how to efficiently search and browse rental properties on Apply2Rent.com using our powerful search tools and interactive map features.
 
 ## Getting Started with Property Search
 
@@ -19,23 +19,23 @@ Located at the top of the properties page:
 ### View Toggle Options
 Switch between different viewing modes:
 
-#### 📍 **Map View** (Default)
+#### 📍 **Map View**
 - Interactive map showing property locations
 - Zoom in/out to explore different areas
 - Click property markers to see basic details
 - Great for understanding neighborhood context
 
-#### 📋 **List View**
-- Traditional list format of all properties
+#### 🔲 **Balanced View** (Default)
+- Expanded list format of properties alongside interactive map
 - More properties visible at once
-- Detailed information for each listing
-- Easier to compare multiple properties quickly
-
-#### 🔲 **Grid View**
-- Card-based layout with property photos
 - Visual browsing experience
-- Property images prominently displayed
 - Balance between map and list views
+
+#### 📋 **List View**
+- Traditional card-based layout with property photos
+- Detailed information for each listing
+- Property images prominently displayed
+- Easier to compare multiple properties quickly
 
 ## Advanced Filtering
 
@@ -44,15 +44,7 @@ Click the **"Filters"** button to access detailed search criteria:
 
 #### **Price Range**
 - Set minimum and maximum monthly rent
-- Slider interface for easy adjustment
 - View properties within your budget
-
-#### **Property Type**
-- House
-- Apartment
-- Condo
-- Townhouse
-- Other
 
 #### **Bedrooms & Bathrooms**
 - Select minimum number of bedrooms
@@ -61,15 +53,7 @@ Click the **"Filters"** button to access detailed search criteria:
 
 #### **Property Features**
 - Pet-friendly options
-- Parking availability
-- Laundry facilities
-- Air conditioning
-- And many more amenities
-
-#### **Lease Terms**
-- Short-term rentals
-- Long-term leases
-- Flexible lease options
+- Square footage
 
 ### Applying Filters
 1. Select your desired criteria
@@ -86,15 +70,15 @@ Click the **"Filters"** button to access detailed search criteria:
 - **Clustering:** Properties group together when zoomed out
 
 ### Property Markers
-- **Green markers:** Available properties
+- **Blue markers:** Available properties
 - **Number badges:** Multiple properties in same area
 - **Click markers:** Preview property details
 
-### Map Features
+<!-- ### Map Features
 - **Street view:** See neighborhood surroundings
 - **Satellite view:** Aerial view of properties
 - **Traffic overlay:** Current traffic conditions
-- **Transit options:** Public transportation access
+- **Transit options:** Public transportation access -->
 
 ![Map Navigation](../screenshots/a2r-map-navigation-search.png)
 
@@ -111,7 +95,7 @@ Each property listing displays:
 
 #### **Property Status**
 - **Active** - Available for applications
-- **Pending** - Application under review
+- **Paused** - Temporarily unavailable
 - **Rented** - No longer available
 
 #### **Quick Actions**
@@ -192,4 +176,4 @@ If your search returns no properties:
 
 ---
 
-**Next Steps:** Once you find interesting properties, learn how to [Save Properties](saving-properties.md) for future reference.
+**Next Steps:** Once you find interesting properties, learn how to [Save Properties](core/saving-properties.md) for future reference.

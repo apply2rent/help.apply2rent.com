@@ -1,10 +1,10 @@
 # Landlord Guide
 
-Welcome to the comprehensive Landlord Guide for Apply2Rent! This section covers everything you need to know as a property owner or manager to list properties, review applications, and find qualified tenants.
+Welcome to the comprehensive Landlord Guide for Apply2Rent.com! This section covers everything you need to know as a property owner or manager to list properties, review applications, and find qualified tenants.
 
 ## Overview
 
-As a landlord on Apply2Rent, you can:
+As a landlord on Apply2Rent.com, you can:
 - **Create detailed property listings** with photos and descriptions
 - **Receive qualified tenant applications** with comprehensive screening
 - **Review tenant screening reports** and credit information
@@ -14,17 +14,17 @@ As a landlord on Apply2Rent, you can:
 ## Getting Started as a Landlord
 
 ### Your Landlord Journey
-1. **[Profile Setup](profile-setup.md)** - Complete your landlord profile
-2. **[Create Property Listings](creating-listings.md)** - Add your rental properties
-3. **[Upload Photos](photos.md)** - Showcase your properties with great images
-4. **[Property Descriptions](description.md)** - Write compelling property descriptions
-5. **[Share Listing Flyers](flyers.md)** - Promote your properties
-6. **[Review Applications](application-review.md)** - Evaluate tenant applications
-7. **[Manage Listings](listing-management.md)** - Update and maintain your properties
+1. **[Profile Setup](landlord/profile-setup.md)** - Complete your landlord profile
+2. **[Create Property Listings](landlord/creating-listings.md)** - Add your rental properties
+3. **[Upload Photos](landlord/photos.md)** - Showcase your properties with great images
+4. **[Property Descriptions](landlord/description.md)** - Write compelling property descriptions
+5. **[Share Listing Flyers](landlord/flyers.md)** - Promote your properties
+6. **[Review Applications](landlord/application-review.md)** - Evaluate tenant applications
+7. **[Manage Listings](landlord/listing-management.md)** - Update and maintain your properties
 
 ## Landlord Account Benefits
 
-### 🏡 **Professional Property Management**
+### 🏡 **Professional Application Management**
 - Create unlimited property listings
 - Professional listing presentation
 - Built-in property management tools
@@ -62,42 +62,22 @@ Your listings can include:
 - **Rental terms** - Lease duration, deposits, pet policies
 
 ### Property Management Tools
-- **Listing status control** - Active, inactive, or rented
+- **Listing status control** - Active, paused, or rented
 - **Application management** - Track and review applications
-- **Applicant communication** - Direct messaging with potential tenants
-- **Property analytics** - Views, interest, and application metrics
+- **Applicant communication** - Applicant emails available for direct interaction with potential tenants
 
 ## Tenant Screening Process
 
 ### Automatic Tenant Screening
-When tenants apply to your properties, Apply2Rent automatically provides:
+When tenants apply to your properties, Apply2Rent.com automatically provides:
 
-#### **Credit Information**
-- **Credit score** and detailed credit report
-- **Payment history** on credit accounts
-- **Outstanding debts** and financial obligations
-- **Credit utilization** and account status
-
-#### **Background Checks**
-- **Criminal history** screening
-- **Eviction history** search
-- **Public records** verification
-- **Identity verification**
-
-#### **Employment Verification**
-- **Current employment** confirmation
-- **Income verification** and documentation
-- **Employment stability** assessment
-- **Additional income** sources
-
-#### **Rental History**
-- **Previous landlord** verification
-- **Rental payment history**
-- **Property care** and maintenance
-- **Lease compliance** record
+- **Credit Information**
+- **Background Checks**
+- **Employment Verification**
+- **Rental History Information** with previous landlord verificaiton
 
 ### Tenant Scoring System
-Apply2Rent provides a comprehensive tenant score including:
+Apply2Rent.com provides a comprehensive tenant score including:
 - **Overall numerical score** (0-100 scale)
 - **Category breakdowns** - Credit, employment, rental history
 - **Risk assessment** - Low, medium, or high risk
@@ -109,14 +89,14 @@ Apply2Rent provides a comprehensive tenant score including:
 
 ### Receiving Applications
 When tenants apply to your properties:
-1. **Instant notification** - Email and dashboard alerts
+1. **Instant notification** - Email and in-app alerts
 2. **Complete application** - All tenant information provided
 3. **Screening results** - Comprehensive background information
 4. **Review dashboard** - Easy-to-use application evaluation tools
 
 ### Review Tools
 Evaluate applications with:
-- **Side-by-side comparison** of multiple applicants
+<!-- - **Side-by-side comparison** of multiple applicants -->
 - **Detailed tenant profiles** - Complete financial and rental history
 - **Risk assessments** - Professional evaluation of tenant quality
 - **Communication tools** - Direct contact with applicants
@@ -131,7 +111,7 @@ Make informed decisions with:
 ## Property Types and Specialties
 
 ### Residential Properties
-Apply2Rent works for all residential rental types:
+Apply2Rent.com works for all residential rental types:
 - **Single-family homes** - Houses and townhouses
 - **Apartments** - Units in multi-family buildings
 - **Condominiums** - Individual condo rentals
@@ -200,20 +180,19 @@ Whether you have:
 - **Tenant communication** - Professional correspondence templates
 
 ### Customer Support
-- **Live chat** - Available during business hours
 - **Email support** - info@apply2rent.com
 - **Phone support** - Business hours (9 AM - 5 PM HST)
 - **Knowledge base** - Comprehensive guides and FAQs
 
 ## Success Metrics
 
-### Track Your Performance
+<!-- ### Track Your Performance
 Monitor your rental success:
 - **Listing views** - How many people view your properties
 - **Application volume** - Number of applications received
 - **Application quality** - Average tenant scores
 - **Time to rent** - How quickly properties rent
-- **Tenant retention** - Long-term tenant success
+- **Tenant retention** - Long-term tenant success -->
 
 ### Optimize Your Listings
 Improve results by:
@@ -224,4 +203,4 @@ Improve results by:
 
 ---
 
-**Ready to get started?** Begin by [Setting Up Your Landlord Profile](profile-setup.md) to create your property management account.
+**Ready to get started?** Begin by [Setting Up Your Landlord Profile](landlord/profile-setup.md) to create your property management account.

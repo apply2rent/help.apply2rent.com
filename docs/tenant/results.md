@@ -6,7 +6,7 @@ Learn how to track your application progress, understand tenant screening result
 
 ### Accessing Your Applications
 View all your applications in one place:
-1. **Log in** to your Apply2Rent account
+1. **Log in** to your Apply2Rent.com account
 2. **Click "Applications"** in the main navigation
 3. **View application dashboard** with all submitted applications
 4. **Click individual applications** for detailed information
@@ -17,7 +17,7 @@ View all your applications in one place:
 
 #### **Pending**
 - **Recently submitted** - Application just sent to landlord
-- **Initial processing** - Apply2Rent is processing your application
+- **Initial processing** - Apply2Rent.com is processing your application
 - **Landlord notification** - Property owner has been notified
 - **Expected duration:** 0-24 hours
 
@@ -46,7 +46,7 @@ View all your applications in one place:
 ## Understanding Your Tenant Score
 
 ### Tenant Score Overview
-Apply2Rent provides a comprehensive tenant score (0-100 scale) that helps landlords evaluate your application:
+Apply2Rent.com provides a comprehensive tenant score (0-100 scale) that helps landlords evaluate your application:
 
 - **Excellent (80-100):** Very strong application, high approval likelihood
 - **Good (60-79):** Solid application, good approval chances
@@ -54,11 +54,11 @@ Apply2Rent provides a comprehensive tenant score (0-100 scale) that helps landlo
 - **Poor (20-39):** Weak application, significant improvements needed
 - **Very Poor (0-19):** Very weak application, major issues to address
 
-![Application Details with Score](./screenshots/a2r-app-details.png)
+![Application Details with Score](../screenshots/a2r-app-details.png)
 
 ### Score Categories
 
-#### **Credit History (25% of score)**
+#### **Credit History**
 Evaluates your credit worthiness:
 - **Credit score** - FICO or VantageScore rating
 - **Payment history** - On-time payments on credit accounts
@@ -72,21 +72,19 @@ Evaluates your credit worthiness:
 - Don't close old credit accounts
 - Limit new credit applications
 
-#### **Employment Stability (25% of score)**
-Assesses your job and income reliability:
-- **Employment duration** - How long at current job
-- **Income level** - Meeting rent-to-income ratios
-- **Employment type** - Full-time vs. part-time or contract
-- **Income verification** - Documented proof of income
+#### **Rent to Income**
+Evaluates your ability to afford the rental property:
+- **Income to rent ratio** - Your monthly income compared to monthly rent
+- **Affordability assessment** - Whether rent fits within your budget
+- **Financial cushion** - Ability to handle unexpected expenses
 
 **Improvement tips:**
-- Maintain stable employment for at least 6 months
-- Ensure income is 3x monthly rent
-- Provide complete employment documentation
-- Include additional income sources if applicable
+- Ensure your income is at least 3x the monthly rent
+- Include all income sources (second jobs, benefits, support)
+- Consider finding a roommate to split costs
 
-#### **Rental History (25% of score)**
-Reviews your previous rental experiences:
+#### **Payment History**
+Reviews your previous rental experiences based on your previous landlords' input:
 - **Payment timeliness** - On-time rent payments
 - **Lease compliance** - Following lease terms and rules
 - **Property care** - Maintaining rental properties well
@@ -98,7 +96,19 @@ Reviews your previous rental experiences:
 - Follow all lease terms and property rules
 - Maintain property in good condition
 
-#### **Residential Stability (25% of score)**
+#### **Employment Stability**
+Assesses your job and income reliability:
+- **Employment duration** - How long at current job
+- **Employment type** - Full-time vs. part-time or contract
+- **Income verification** - Documented proof of income
+
+**Improvement tips:**
+- Maintain stable employment for at least 6 months
+- Ensure income is 3x monthly rent
+- Provide complete employment documentation
+- Include additional income sources if applicable
+
+#### **Residential Stability**
 Measures your housing stability:
 - **Length of residency** - How long you stay at addresses
 - **Moving frequency** - How often you relocate
@@ -121,12 +131,12 @@ Your credit report includes:
 - **Public records** - Bankruptcies, liens, judgments
 - **Credit inquiries** - Recent credit applications
 
-### Background Check Results
+<!-- ### Background Check Results
 Background screening covers:
 - **Criminal history** - Felony and misdemeanor convictions
 - **Eviction records** - Previous eviction filings
 - **Public records** - Court judgments, liens, bankruptcies
-- **Identity verification** - Confirming your identity and SSN
+- **Identity verification** - Confirming your identity and SSN -->
 
 ### Employment Verification
 Employment checks verify:
@@ -211,7 +221,7 @@ When your application is approved:
 If your application is denied:
 1. **Ask for feedback** - Understand why you weren't selected
 2. **Don't take it personally** - Many factors influence landlord decisions
-3. **Continue applying** - Your subscription allows unlimited applications
+3. **Continue applying** - Your active payment allows unlimited applications
 4. **Address weaknesses** - Work on improving identified issues
 5. **Consider alternatives** - Different property types or locations
 
@@ -239,12 +249,6 @@ If you've applied to multiple properties:
 - **Be prepared for multiple offers** - Have decision criteria ready
 - **Handle rejections professionally** - Maintain good relationships
 
-### Following Up Appropriately
-- **Initial follow-up:** 3-5 days after application
-- **Status inquiries:** Weekly if no response
-- **Professional tone:** Always courteous and patient
-- **Avoid pressure:** Don't demand immediate responses
-
 ---
 
-**Next Steps:** Learn about [Email Notifications](notifications.md) to stay informed about your applications and account updates.
+**Next Steps:** Learn about [Email Notifications](tenant/notifications.md) to stay informed about your applications and account updates.

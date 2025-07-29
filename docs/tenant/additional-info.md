@@ -165,7 +165,7 @@ Show landlords you've changed:
 - **Financial planning** - Emergency fund for rent payments
 - **Character references** - People who can vouch for improvement
 
-### Bankruptcy History
+<!-- ### Bankruptcy History
 
 #### **Bankruptcy Disclosure**
 If you've filed for bankruptcy:
@@ -173,16 +173,15 @@ If you've filed for bankruptcy:
 - **Filing date** - When bankruptcy was filed
 - **Discharge date** - When bankruptcy was completed
 - **Circumstances** - Brief explanation of what led to bankruptcy
-- **Current financial status** - How your situation has improved
+- **Current financial status** - How your situation has improved -->
 
 ### No Criminal or Eviction History
 If you have a clean background:
-- **Clearly state** "No criminal history"
+- **Clearly Indicate** "No criminal history"
 - **Indicate** "No eviction history"
-- **Mention** "No bankruptcy filings"
 - **Emphasize** your clean record as a positive factor
 
-## Special Circumstances
+<!-- ## Special Circumstances
 
 ### Medical Accommodations
 If you need special accommodations:
@@ -210,7 +209,7 @@ Other considerations:
 - **Smoking** - Tobacco or other substances
 - **Music/instruments** - Sound considerations
 - **Hobbies** - Activities that might affect property or neighbors
-- **Religious observances** - Practices that might affect tenancy
+- **Religious observances** - Practices that might affect tenancy -->
 
 ## Completing Additional Information
 
@@ -260,4 +259,4 @@ Despite potential challenges:
 
 ---
 
-**Next Steps:** With your profile complete, learn about [Applying to Properties](applying.md) to start submitting rental applications.
+**Next Steps:** With your profile complete, learn about [Applying to Properties](tenant/applying.md) to start submitting rental applications.

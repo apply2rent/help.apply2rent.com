@@ -46,11 +46,11 @@ Sharing properties is useful for:
 3. Click the share button or icon
 4. Choose sharing method and send
 
-#### Share Your Entire Saved List
+<!-- #### Share Your Entire Saved List
 1. From your saved properties page
 2. Look for **"Share List"** or **"Share All"** option
 3. Generate a shareable link to your favorites
-4. Recipients can view your entire saved collection
+4. Recipients can view your entire saved collection -->
 
 ## Sharing Methods
 
@@ -60,7 +60,7 @@ Sharing properties is useful for:
 #### How to Share via Email
 1. Click **"Share via Email"**
 2. Enter recipient email addresses
-3. Add a subject line (auto-generated available)
+3. Add a subject line
 4. Write a personal message
 5. Click **"Send Email"**
 
@@ -68,7 +68,6 @@ Sharing properties is useful for:
 - Property photos and key details
 - Direct link to full property listing
 - Your personal message
-- Apply2Rent branding and contact info
 
 ### Link Sharing
 **Best for:** Quick sharing via messaging apps
@@ -90,15 +89,13 @@ Sharing properties is useful for:
 
 #### Supported Platforms
 - **Facebook** - Share to timeline or groups
-- **Twitter** - Tweet with property preview
-- **Instagram** - Share property photos (if supported)
-- **LinkedIn** - Professional network sharing
+- **TikTok** - Share property photos and features in short video format
+- **Instagram** - Share to Stories or feed with property photos
 
 #### Social Sharing Features
 - **Auto-generated captions** with property highlights
 - **Property images** included in posts
-- **Direct links** back to Apply2Rent listing
-- **Hashtag suggestions** for better visibility
+- **Direct links** back to Apply2Rent.com listing
 
 ## What Recipients See
 
@@ -114,10 +111,9 @@ When you share a property, recipients can view:
 Recipients cannot see:
 - **Your personal information** or profile
 - **Your application status** or history
-- **Other saved properties** (unless sharing entire list)
-- **Private messages** between you and landlords
+- **Other saved properties**
 
-## Sharing Property Collections
+<!-- ## Sharing Property Collections
 
 ### Create Custom Collections
 1. Select multiple properties from search or saved list
@@ -129,24 +125,24 @@ Recipients cannot see:
 - **Multiple properties** in one shared link
 - **Comparison view** for recipients
 - **Group discussion** capabilities (if supported)
-- **Individual property details** accessible from collection
+- **Individual property details** accessible from collection -->
 
 ## Managing Shared Properties
 
-### Track Your Shares
+<!-- ### Track Your Shares
 - **Sharing history** - See what you've shared and when
 - **Recipient tracking** - Know who has viewed shared properties
-- **Link analytics** - See how many times links were clicked
+- **Link analytics** - See how many times links were clicked -->
 
 ### Update Shared Information
 - **Property changes** automatically reflect in shared links
 - **Availability updates** show in real-time
 - **Price changes** are immediately visible to recipients
 
-### Revoke Sharing
+<!-- ### Revoke Sharing
 - **Disable links** if you no longer want them accessible
 - **Update permissions** for shared collections
-- **Remove from social media** if circumstances change
+- **Remove from social media** if circumstances change -->
 
 ## Privacy and Security
 
@@ -230,7 +226,7 @@ Recipients cannot see:
 
 **"Sharing button not appearing"**
 - Refresh the property page
-- Check if you're logged in
+- Check if you're logged in (shouldn't be required)
 - Try different browser if using web version
 
 ---

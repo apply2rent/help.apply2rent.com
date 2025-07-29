@@ -1,3 +1,3 @@
-- 🏠 [Apply2Rent](https://apply2rent.com)
+- 🏠 [Apply2Rent.com](https://apply2rent.com)
 - 📚 [Documentation](/)
 - 📞 [Support](support/contact.md)

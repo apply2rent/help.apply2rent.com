@@ -16,14 +16,13 @@ Your tenant profile consists of five main sections:
 ## Getting Started
 
 ### Access Your Profile
-1. Log in to your Apply2Rent account
+1. Log in to your Apply2Rent.com account
 2. Click **"Profile"** in the top navigation
 3. You'll see your profile dashboard with completion status
 
 ### Profile Completion Indicator
-- **Progress bar** shows overall completion percentage
 - **Section status** indicates which areas need attention
-- **Required fields** are marked with asterisks (*)
+- **Optional fields** are marked
 - **Recommended fields** help strengthen your application
 
 ## Profile Setup Strategy
@@ -37,17 +36,17 @@ Complete your profile sections in this order for efficiency:
 - Identification details
 - Emergency contacts
 
-#### 2. **Employment Information**
-- Current job details
-- Income verification
-- Employment history
-- Additional income sources
-
-#### 3. **Rental History** 
+#### 2. **Rental History** 
 - Previous addresses
 - Landlord contacts
 - Payment history
 - Rental references
+
+#### 3. **Employment Information**
+- Current job details
+- Income verification
+- Employment history
+- Additional income sources
 
 #### 4. **Documents**
 - Upload required documents
@@ -70,8 +69,6 @@ Complete your profile sections in this order for efficiency:
 - Valid government-issued ID
 - Recent pay stubs (last 2 months)
 - Bank statements (last 2 months)
-
-🟡 **Highly Recommended:**
 - Previous rental history (if applicable)
 - Emergency contact information
 - Professional references
@@ -88,7 +85,7 @@ Complete your profile sections in this order for efficiency:
 📄 **Clear, readable scans** or photos  
 📄 **Complete documents** - all pages included  
 📄 **Recent documents** - within required timeframes  
-📄 **Accepted formats** - PDF, JPG, PNG typically  
+📄 **Accepted formats** - PDF, JPG, PNG  
 
 ## Profile Sections Deep Dive
 
@@ -110,7 +107,7 @@ Complete your profile sections in this order for efficiency:
 **Essential Elements:**
 - Current employer name and address
 - Job title and employment status
-- Annual or monthly income
+- Annual income
 - Supervisor contact information
 - Employment start date and duration
 
@@ -122,7 +119,7 @@ Complete your profile sections in this order for efficiency:
 
 ### Rental History Section
 **Essential Elements:**
-- Previous rental addresses (last 2-3 years)
+- Previous rental addresses (last 3 years, if possible)
 - Landlord or property manager contacts
 - Rent amounts and payment history
 - Lease terms and move-out reasons
@@ -174,7 +171,7 @@ Complete your profile sections in this order for efficiency:
 - **Add new rental history** if you've moved recently
 
 ### Profile Verification
-Apply2Rent may verify information in your profile:
+Apply2Rent.com may verify information in your profile:
 - **Employment verification** - Contact with employers
 - **Landlord verification** - Contact with previous landlords
 - **Document verification** - Review uploaded documents
@@ -209,7 +206,7 @@ Apply2Rent may verify information in your profile:
 🔒 **Privacy Controls:** You control what information to share  
 
 ### Best Practices
-- **Use secure passwords** for your Apply2Rent account
+- **Use secure passwords** for your Apply2Rent.com account
 - **Log out** on shared computers
 - **Monitor your profile** for unauthorized changes
 - **Report issues** immediately to customer support
@@ -222,12 +219,12 @@ Apply2Rent may verify information in your profile:
 💬 **In-App Help:** Profile-specific guidance  
 📚 **Knowledge Base:** Detailed setup guides  
 
-### Common Questions
+<!-- ### Common Questions
 - **Document format requirements**
 - **Income calculation methods**
 - **Rental history verification process**
-- **Profile completion requirements**
+- **Profile completion requirements** -->
 
 ---
 
-**Next Steps:** Once you understand the profile setup process, dive into each section starting with [Personal Information](personal-info.md).
+**Next Steps:** Once you understand the profile setup process, dive into each section starting with [Personal Information](tenant/personal-info.md).
